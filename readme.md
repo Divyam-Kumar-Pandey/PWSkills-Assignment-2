@@ -18,4 +18,4 @@ This is a landing page for an online business. It is a simple, one-page website 
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://divyam-kumar-pandey.github.io/PWSkills-Assignment-2/)
